@@ -80,6 +80,33 @@
             <artifactId>hadoop-core</artifactId>
             <version>1.2.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.wandoulabs.jodis</groupId>
+            <artifactId>jodis</artifactId>
+            <version>0.2.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.curator</groupId>
+            <artifactId>curator-client</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.curator</groupId>
+            <artifactId>curator-framework</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.curator</groupId>
+            <artifactId>curator-recipes</artifactId>
+            <version>3.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>redis.clients</groupId>
+            <artifactId>jedis</artifactId>
+            <version>2.8.1</version>
+        </dependency>
+
 
     </dependencies>
 </project>
