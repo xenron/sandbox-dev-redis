@@ -4,7 +4,7 @@ import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 
-import com.redis.util.ExLock;
+import redis.util.ExLock;
 
 public class TestExlock {
 	//private static Jedis jedis = null;

@@ -1,6 +1,6 @@
 package jedis;
 
-import com.redis.util.ExLock;
+import redis.util.ExLock;
 
 public class ExceptionLock {
 

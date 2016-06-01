@@ -12,7 +12,7 @@ import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisShardInfo;
 import redis.clients.jedis.Protocol;
 import redis.clients.jedis.ShardedJedis;
-import redis.clients.jedis.tests.utils.ClientKillerUtil;
+//import redis.clients.jedis.tests.utils.ClientKillerUtil;
 import redis.clients.util.Hashing;
 import redis.clients.util.Sharded;
 

@@ -11,7 +11,7 @@ import org.junit.ComparisonFailure;
 
 import redis.clients.jedis.HostAndPort;
 import redis.clients.jedis.Jedis;
-import redis.clients.jedis.tests.JedisTestBase;
+//import redis.clients.jedis.tests.JedisTestBase;
 
 public abstract class JedisCommandTestBase extends JedisTestBase {
   protected static HostAndPort hnp = HostAndPortUtil.getRedisServers().get(0);
